@@ -1,4 +1,4 @@
-# snd-soc_kernel_obj
+# snd-soc compiled kernel objects
 Please put these modules in "/lib/modules/`uname -r`/kernel/sound/soc/intel/boards"           where `uname -r` is the command that will output the kernel release name.
 
 These Kernel objects are already compiled for you.
